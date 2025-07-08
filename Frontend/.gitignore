@@ -1,0 +1,14 @@
+# Ignore audio and credentials
+audio/
+credentials/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Conda or venv environments
+.env/
+venv/
+ai-product-dev/
+
+
